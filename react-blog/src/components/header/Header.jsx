@@ -9,7 +9,7 @@ export default function Header() {
       </div>
       <img
         className="headerImg"
-        src="https://th.bing.com/th/id/OIP.mhEcWSvMXEwwgBIkK5fF4wHaGQ?pid=ImgDet&rs=1" alt="" />
+        src="https://employerschoicescreening.com/wp-content/uploads/AdobeStock_235931235-scaled.jpeg" alt="" />
     </div>
   );
 }
