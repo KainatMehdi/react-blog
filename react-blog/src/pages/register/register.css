@@ -7,25 +7,27 @@
     background: url('https://avante.biz/wp-content/uploads/Background-Images-For-Websites/Background-Images-For-Websites-001.jpg');
     background-size: cover;
 }
-.registerTitle{
+.registerTitle {
     font-size: 50px;
-
-} 
-.registerForm{
-     margin-top: 20px;
-     display: flex;
-     flex-direction: column;
-}
-.registerForm > label{
+  }
+  
+  .registerForm {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .registerForm > label {
     margin: 10px 0;
-
-}
-.registerInput {
+  }
+  
+  .registerInput {
     padding: 10px;
     background-color: white;
     border: none;
-}
-.registerButton{
+  }
+  
+  .registerButton {
     margin-top: 20px;
     cursor: pointer;
     background-color: teal;
@@ -33,9 +35,9 @@
     color: white;
     border-radius: 10px;
     padding: 10px;
-}
-
-.registerLoginButton {
+  }
+  
+  .registerLoginButton {
     position: absolute;
     top: 60px;
     right: 20px;
@@ -45,4 +47,4 @@
     padding: 10px;
     color: white;
     border-radius: 10px;
-}
+  }

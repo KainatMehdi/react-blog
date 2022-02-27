@@ -7,25 +7,27 @@
     background: url('https://prmceam.ac.in/wp-content/uploads/2015/03/background-learner.jpg');
     background-size: cover;
 }
-.loginTitle{
+.loginTitle {
     font-size: 50px;
-
-} 
-.loginForm{
-     margin-top: 20px;
-     display: flex;
-     flex-direction: column;
-}
-.loginForm > label{
+  }
+  
+  .loginForm {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .loginForm > label {
     margin: 10px 0;
-
-}
-.loginInput {
+  }
+  
+  .loginInput {
     padding: 10px;
     background-color: white;
     border: none;
-}
-.loginButton{
+  }
+  
+  .loginButton {
     margin-top: 20px;
     cursor: pointer;
     background-color: lightcoral;
@@ -33,9 +35,14 @@
     color: white;
     border-radius: 10px;
     padding: 10px;
-}
-
-.loginRegisterButton {
+  }
+  
+  .loginButton:disabled{
+    cursor: not-allowed;
+    background-color: rgb(252, 173, 173);
+  }
+  
+  .loginRegisterButton {
     position: absolute;
     top: 60px;
     right: 20px;
@@ -45,4 +52,4 @@
     padding: 10px;
     color: white;
     border-radius: 10px;
-}
+  }
