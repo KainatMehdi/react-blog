@@ -31,6 +31,6 @@ run the client (using npm start)
 Group Members
 	021-19-0045 Kainat Mehdi
 	021-19-0046 Rida Fatima
-	021-19-0045 Ramsha Gopchandani
+	021-19-0020 Ramsha Gopchandani
 
 Git Repository Link: https://github.com/KainatMehdi/react-blog
