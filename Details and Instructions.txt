@@ -1,0 +1,36 @@
+Blogging Website using React, Node, MongoDB and Express
+
+Blogging refers to writing, photography, and other media that's self-published online. Blogging started as an opportunity for individuals to write diary-style entries, but it has since been incorporated into websites for many businesses.
+This project is basically a Blogging Website.
+Where a user can:
+	Register
+	Login
+	Write a Blog
+	Publish a Blog
+	Edit his/her Blog
+	Delete his/her Blog
+	View all Blogs by users
+	Manage his/her Account(edit details, change profile pic etc.)
+	Delete his/her Account
+	
+This project could be run using vsCode by Cloning the repository available on github 
+
+the project folder contains two folders api and react-blog
+
+react-app contains client side code while api contains server side code
+
+Open terminal(ctrl+`) 
+Go to api folder(using cd/api)
+run the server (using npm start)
+
+Open New terminal(ctrl+shift+`)
+Go to react-blog(using cd/react-blog)
+run the client (using npm start)
+
+
+Group Members
+	021-19-0045 Kainat Mehdi
+	021-19-0046 Rida Fatima
+	021-19-0045 Ramsha Gopchandani
+
+Git Repository Link: https://github.com/KainatMehdi/react-blog
