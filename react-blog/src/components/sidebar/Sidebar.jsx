@@ -17,10 +17,9 @@ export default function Sidebar() {
     <div className="sidebar">
       <div className="sidebarItem">
         <span className="sidebarTitle">ABOUT ME</span>
-        <img src="https://th.bing.com/th/id/OIP.XfW7lfvDoHTE4o_kJZA5aAHaE8?pid=ImgDet&rs=1" alt="" />
+        <img src="https://www.hdnicewallpapers.com/Walls/Big/Nature%20and%20Landscape/Beautiful_Nature_Background_Wallpapers.jpg" width="300px" alt="" />
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate qui
-          necessitatibus nostrum illum reprehenderit.
+        A number of years ago I went on holiday to a beautiful part of Portugal. We stayed in a converted farmhouse in the middle of a national park. The farmhouse was in a valley.
         </p>
       </div>
       <div className="sidebarItem">

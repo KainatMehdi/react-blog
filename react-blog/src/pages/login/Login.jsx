@@ -46,7 +46,7 @@ export default function Login() {
         </button>
       </form>
       <button className="loginRegisterButton">
-        <Link className="link" to="/register">
+        <Link style={{color: "white"}}className="link" to="/register">
           Register
         </Link>
       </button>
